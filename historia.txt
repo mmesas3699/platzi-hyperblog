@@ -12,3 +12,7 @@ Ahora soy administrador del punto vive digital.
 Titulo: Una nueva historia
 
 Cuerpo: El cuerpo de la historia
+
+Hitoria 3
+
+Titulo: Historia 3
